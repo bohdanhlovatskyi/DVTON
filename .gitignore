@@ -1,0 +1,5 @@
+data/hrviton/test
+data/hrviton/train
+*.txt
+
+.ipynb_checkpoints
