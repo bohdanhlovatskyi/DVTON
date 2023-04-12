@@ -10,3 +10,6 @@ mkdir data && cd data
 gdown "1ZV8U69Wry_x5A4ef-RGdjvBpfGQRI048&confirm=t"
 ```
 
+## Interesting materials
+
+- Image to Prompt: https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts/discussion/389147
