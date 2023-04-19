@@ -11,3 +11,8 @@ __pycache__
 pbe_results
 notebooks/cache/
 evaluation/test
+
+data/processed_hrviton
+pipe.py
+
+lightning_logs/
